@@ -1,0 +1,14 @@
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MillionaireQuizGame/bin/Debug/net8.0/MillionaireQuizGame
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MillionaireQuizGame/bin/Debug/net8.0/MillionaireQuizGame.deps.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MillionaireQuizGame/bin/Debug/net8.0/MillionaireQuizGame.runtimeconfig.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MillionaireQuizGame/bin/Debug/net8.0/MillionaireQuizGame.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MillionaireQuizGame/bin/Debug/net8.0/MillionaireQuizGame.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MillionaireQuizGame/obj/Debug/net8.0/MillionaireQuizGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MillionaireQuizGame/obj/Debug/net8.0/MillionaireQuizGame.AssemblyInfoInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MillionaireQuizGame/obj/Debug/net8.0/MillionaireQuizGame.AssemblyInfo.cs
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MillionaireQuizGame/obj/Debug/net8.0/MillionaireQuizGame.csproj.CoreCompileInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MillionaireQuizGame/obj/Debug/net8.0/MillionaireQuizGame.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MillionaireQuizGame/obj/Debug/net8.0/refint/MillionaireQuizGame.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MillionaireQuizGame/obj/Debug/net8.0/MillionaireQuizGame.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MillionaireQuizGame/obj/Debug/net8.0/MillionaireQuizGame.genruntimeconfig.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/MillionaireQuizGame/obj/Debug/net8.0/ref/MillionaireQuizGame.dll
